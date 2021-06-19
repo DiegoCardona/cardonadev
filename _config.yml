@@ -19,8 +19,9 @@ description: # this means to ignore newlines until "baseurl:"
   Blog with posts about software architecture, some machine learning, a bit about gaming and every fun topic about software that I would like to share
 twitter_username: R0otDiego 
 github_username: DiegoCardona 
-minimal_mistakes_skin: contrast 
+minimal_mistakes_skin: dark 
 search: true
+google_analytics: G-HXHS8JD9VN
 
 # Build settings
 markdown: kramdown
@@ -59,7 +60,7 @@ plugins:
 author:
   name   : "Diego Cardona"
   avatar : "/assets/images/leoluch_fernando.jpg"
-  bio    : "Software Developer, enthusiast in software architecture and gaming development."
+  bio    : "Software Developer."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -67,6 +68,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DiegoCardona"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/diegofernandocardona/"
 
 footer:
   links:
@@ -76,6 +80,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DiegoCardona"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/diegofernandocardona/"
 
 defaults:
   # _posts

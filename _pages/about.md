@@ -2,5 +2,10 @@
 permalink: /about/
 title: "About"
 ---
-Yes sure, I will talk a lot about me
-... Ok no, better go to the post section and look for something interesting to read.
+I am a Performance-driven, customer-focused, analytical
+Engineering Manager and Senior Software Engineer who can
+think out of the box. Strong in architecture design, microservices, and software
+integration. Advanced knowledge in web back-end software
+development, API definitions. I
+have experience leading engineering teams. I am skilled in architectural
+systems research, process optimization, and data migration.
