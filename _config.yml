@@ -19,7 +19,6 @@ description: # this means to ignore newlines until "baseurl:"
   Blog with posts about software architecture, some machine learning, a bit about gaming and every fun topic about software that I would like to share
 twitter_username: R0otDiego 
 github_username: DiegoCardona 
-minimal_mistakes_skin: contrast 
 search: true
 
 # Build settings
@@ -55,7 +54,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-remote-theme
 
 author:
   name   : "Diego Cardona"
