@@ -24,7 +24,8 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+#remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-hacker
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -59,7 +60,7 @@ plugins:
 author:
   name   : "Diego Cardona"
   avatar : "/assets/images/leoluch_fernando.jpg"
-  bio    : "Software Developer, enthusiast in software architecture and gaming development."
+  bio    : "Software Engineer."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
