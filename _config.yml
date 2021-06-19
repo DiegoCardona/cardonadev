@@ -22,7 +22,12 @@ github_username: DiegoCardona
 minimal_mistakes_skin: dark 
 
 search: true
-google_analytics: G-HXHS8JD9VN
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-HXHS8JD9VN"
+    anonymize_ip: false # default
 
 # Build settings
 markdown: kramdown
